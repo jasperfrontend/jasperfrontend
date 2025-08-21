@@ -1,5 +1,3 @@
-![Welcome](https://jasper.monster/sharex/github-top-resized.png)
-
 Hi, my name is Jasper and I'm from The Netherlands. I've been a website developer for 20+ years now, mostly focusing on WordPress. 
 
 ## My history
