@@ -1,9 +1,5 @@
-Hi, my name is Jasper and I'm from The Netherlands. I've been a website developer for 20+ years now, mostly focusing on WordPress. 
+Hi, my name is Jasper and I'm from The Netherlands. I've been a website developer for 20+ years now and in my daily job I design, develop and support mostly WordPress / WooCommerce websites for a midsized web agency in The Netherlands, [Xolution](https://xolution.nl).
 
-## My history
 Born in 1982 in a small town in the south-west of The Netherlands, currently residing in Rotterdam, The Netherlands. Discovered web design and development as a passion very early on and have the Lycos and MySpace archives to prove it. Those sites were painstakingly handcrafted masterpieces (well, at least according to the web 1.0 standards haha), sliced up in Photoshop, exported to HTML, dragged into FrontPage, and later lovingly reassembled in Dreamweaver. Then came the revelation that you could just... write the code yourself, which led to CSS, jQuery, and eventually SCSS via [CodePen](https://codepen.io/jasper).
 
-Always had web design, copywriting and graphic design as the common thread throughout all my work. I do most client work in WordPress, but recently fell hard for Laravel while building Overlabels, a streaming overlay platform that's become my current obsession.
-
-## My now
-Currently I am freelancing for [Xolution](https://xolution.nl). I'm also developing [jasperfrontend/overlabels](https://github.com/jasperfrontend/overlabels), a code-first approach to Twitch overlays.
+Always had web design, copywriting and graphic design as the common thread throughout all my work. I do most client work in WordPress, but recently fell hard for Laravel while building [Overlabels](https://github.com/jasperfrontend/overlabels), a streaming overlay platform that's become my current obsession.
