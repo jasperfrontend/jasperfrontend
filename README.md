@@ -6,4 +6,4 @@ Born in 1982 in a small town in the south-west of The Netherlands, currently res
 Always had web design, copywriting and graphic design as the common thread throughout all my work. I do most client work in WordPress, but recently fell hard for Laravel while building Overlabels, a streaming overlay platform that's become my current obsession.
 
 ## My now
-Currently I am freelancing for [Xolution](https://xolution.nl). I'm also developing [Overlabels](https://overlabels.com/), a code-first approach to Twitch overlays.
+Currently I am freelancing for [Xolution](https://xolution.nl). I'm also developing [jasperfrontend/overlabels](https://github.com/jasperfrontend/overlabels), a code-first approach to Twitch overlays.
